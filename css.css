@@ -1,0 +1,19 @@
+/* agregar fuentes*/
+
+@font-face {
+    font-family: "Nombre-Fuente";
+    src: url("archivo-fuentr.ttf");
+}
+
+/*Importar*/
+@import url("url objeto a importar");
+
+.uno{
+    background-color: red;
+    width: 200px;
+    padding: 20px;
+    border: solid 20cm;
+    text-transform: capitalize;
+    line-height: 2px;
+    filter:;
+}
